@@ -3,7 +3,7 @@
 - I have experience with Python, Java, HTML, CSS, and a bit of C++
 - I want to learn about: Maching Learing / AI, APP development
 - 📫 You can reach me through
-  - my email: hanshengliu2024@gmail.com o
+  - my email: hanshengliu2024@gmail.com 
   - my LinkedIn: www.linkedin.com/in/hansheng-liu-3487b2284
 
 <!---
